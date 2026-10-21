@@ -9,7 +9,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 
 public class ControllerE9 {
-	static Logger logger = LogManager.getLogger(ControllerE3.class);
+	static Logger logger = LogManager.getLogger(ControllerE9.class);
 
 	public static void main(String[] args) {
 		ControllerE9 cl9 = new ControllerE9();
